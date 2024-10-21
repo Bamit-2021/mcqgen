@@ -1,2 +1,4 @@
 env
+logs
+MCQ_Genrator.egg-info
 .env
